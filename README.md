@@ -52,10 +52,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/PiyushYadav2003/Java_Programming/tree/master/0012-integer-to-roman) |
 | [0066-plus-one](https://github.com/PiyushYadav2003/Java_Programming/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/PiyushYadav2003/Java_Programming/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/PiyushYadav2003/Java_Programming/tree/master/0070-climbing-stairs) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/PiyushYadav2003/Java_Programming/tree/master/0005-longest-palindromic-substring) |
+| [0070-climbing-stairs](https://github.com/PiyushYadav2003/Java_Programming/tree/master/0070-climbing-stairs) |
 ## Manacher
 |  |
 | ------- |
@@ -81,4 +83,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/PiyushYadav2003/Java_Programming/tree/master/0067-add-binary) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/PiyushYadav2003/Java_Programming/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
